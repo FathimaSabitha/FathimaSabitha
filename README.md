@@ -40,5 +40,5 @@ CNN-based system for detecting defects in textile images
 
 ## Connect
 
-📫 LinkedIn: https://www.linkedin.com/in/fathima-sabitha/ 
+📫 LinkedIn: https://www.linkedin.com/in/fathima-sabitha
 
