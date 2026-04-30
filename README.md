@@ -9,7 +9,6 @@
 
 ## Tech Stack
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
